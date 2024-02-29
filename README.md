@@ -1,2 +1,2 @@
 # fcexperimento
-aprendendo a programar.
+aula de programação
